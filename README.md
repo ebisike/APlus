@@ -22,5 +22,10 @@ TECHNOLOGIES USED
 
 Code first appraoch was used in maintaining the database models and schemas. All migrations are applied when the project starts running.
 
-Challenges Faced
+Challenges Faced:
 The unit test fails.
+
+HOW TO RUN:
+1. Open the solution in Visual Studio
+2. Set the Startup project to: APlus.API project
+3. Press F5 on keybaord or click the RUN button on the Debug Tab
