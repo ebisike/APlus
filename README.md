@@ -21,6 +21,7 @@ TECHNOLOGIES USED
 4. C#
 
 Code first appraoch was used in maintaining the database models and schemas. All migrations are applied when the project starts running.
+Also the codebase is self-documented so minimal code comments were used; instead I tried to use SELF EXPLANATORY identifiers for the models, classes, methods and variables.
 
 Challenges Faced:
 The unit test fails.
