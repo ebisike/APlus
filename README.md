@@ -21,3 +21,6 @@ TECHNOLOGIES USED
 4. C#
 
 Code first appraoch was used in maintaining the database models and schemas. All migrations are applied when the project starts running.
+
+Challenges Faced
+The unit test fails.
